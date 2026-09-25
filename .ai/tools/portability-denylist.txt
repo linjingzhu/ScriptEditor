@@ -1,0 +1,2 @@
+# Project identifiers that belong only in instance files.
+linjingzhu/ScriptEditor
